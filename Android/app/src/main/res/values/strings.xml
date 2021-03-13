@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_nombre">Nombre</string>
+    <string name="text_mensaje">Mensaje</string>
+    <string name="btn_refresh">Refresh</string>
+    <string name="btn_enviar">Enviar</string>
+
+
+</resources>
